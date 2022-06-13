@@ -1,24 +1,6 @@
-# README
+Hello! I am Hriday Mehta. (Batch of 2025)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Firstly, I used docker and docker-compose to build a Rails application with data-base connectivity.
+I could then change the port of the local host to 8080 from 3000.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+I went through the documentation of Nginx but had difficulty in running the commands on git, as some errors were coming through which I couldn't on StackOverflow or through some documentation. I hope to learn more about web development as this was the first time I have ever used Rails or Docker.
